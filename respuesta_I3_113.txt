@@ -10,8 +10,16 @@ Primero ubicarme en la rama main git checkout main y luego un git merge Etchart 
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+La rama beta es la mas actualizada pero no, deberian hacerse un git merge main(ya que aca estan los ultimos cambios)
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+simplemente tuvimos que descartar alugnos cambios pero ningun problema mayor
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+pasos:
+1-git switch "Rojas_perichon"(rama de betta)
+#modifico el archivo “beta.txt”
+2-git add . 
+3-git commit -m ":)"
+4-git push
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
