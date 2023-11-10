@@ -1,0 +1,31 @@
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::28:78ff:fecb:71a3  prefixlen 64  scopeid 0x20<link>
+        ether 02:28:78:cb:71:a3  txqueuelen 1000  (Ethernet)
+        RX packets 1261  bytes 421321 (421.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 814  bytes 134441 (134.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp0s8: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.56.2  netmask 255.255.255.0  broadcast 192.168.56.255
+        inet6 fe80::a00:27ff:fec3:5805  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:c3:58:05  txqueuelen 1000  (Ethernet)
+        RX packets 87  bytes 7378 (7.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 21  bytes 1646 (1.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 12  bytes 1068 (1.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 12  bytes 1068 (1.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Fri Nov 10 15:29:18 UTC 2023
+
+
+OJITO CON DOXEAR >.<
